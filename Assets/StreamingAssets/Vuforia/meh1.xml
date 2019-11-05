@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chiz" size="1.000000 0.574879" />
+    <ImageTarget name="tvarog" size="1.000000 0.519324" />
+    <ImageTarget name="svechelik" size="1.000000 0.478175" />
+    <ImageTarget name="gadvyadina" size="1.000000 0.393043" />
+    <ImageTarget name="chichiken" size="1.000000 0.328100" />
+    <ImageTarget name="piggy" size="1.000000 0.437137" />
+    <ImageTarget name="kobchak" size="1.000000 0.500000" />
+    <ImageTarget name="avtomato" size="1.000000 0.396092" />
+    <ImageTarget name="oggurretts" size="1.000000 0.403390" />
+    <ImageTarget name="lucshechemkapusta" size="1.000000 0.512136" />
+    <ImageTarget name="Moloko" size="1.000000 0.517000" />
+  </Tracking>
+</QCARConfig>
