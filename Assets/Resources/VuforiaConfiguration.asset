@@ -14,54 +14,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: AQtohNL/////AAABmQQRfGBHf0B9qqwjRdrT8P5d905N3GWKPvZO9xhRKrrQd8JNCSzbQHFTeJa3Kbo6VUz0v/bGyYEO3fU74eQhWaCcbVC1a8HhpeGAZuY1/YHTm98IC8LeQXi6S59s4aWH3C3Y/GmSf1pkDUcIbeDCyKr21SOLGLo3Botp83rDDIwe1ru+0JpQ6sXATkALeOPDTO+nsF/adf7G5wFBdG2QJIlN1tyHQkycP5axGdKmFc7ZySItWJL6Y/IIfUUQ2uM4Xcp3qbSrO6ohN3+y/ih9uUX76wSau4/i3VULNxQqLa1oDOgNZ13wb+KDriQfv97uSh3BMMpdf0ij4eCz6WvSGWGNyvoTlsxkRG/a8+4OEyha
-    ufoLicenseKey: QVJVTmVZZi8vLy8vQUFBQUtEenFMVkpSMkVjQm1sTnllUlUvcGFZQ29KVGl3Y0FQcCtCcEVQOG9oaEhFVjMxbkx2b3FOTmZrRG9wTVhzRERZOTFQb0pBaUlKOCtDOFFJdHVSMmNhSGhmK3hGQTlpNmVXWDVJRGhIaEtqY3FtQzBROThCcjlXeWpZb2JUZTZ0aDRmdDVPOUN5NmZwQTJOM2I2R0wyUTFHRlA1ckJDUXVOWWpERGtuNkRiSlIwQTl1cmpXdUxaMjRzemVKWGVVQzRnV0lzQ2JDOE14ZmMyTnAwOHVlSXhmcXNYYnBQdDFvWkNWVENlRkdoTG5pS3gxYmZjSWFBc2JBOC9kVk9hS2pSTU5OVEk1dStwSkRJTHI5YjdITEsyMklxTktxL2ZVeGJYMnB2RjV5OEpRNE54RXcvN1luQnEwNmRlY2JMT0xWbTBpMFZnTm9MSERkQzZXNkJXMTY0RXhUSDI3bXpqd3diT0QwVXBTZDBlT2o=
+    ufoLicenseKey: QVk3NE94ai8vLy8vQUFBQUtOVGY5bWRuZkVpVnNESi8vV2pQczJaVVZ2bXVTZDFLRURIYlYxbHFkTWoxV2c1d2dDVEhTOERwbW9ZRUlQNDNpWHJtTndjUEgzWVd6b0RaL2syOCtQeDVVNUJHWVY0RjdYc2ZFS2J1Rk5LeUV4WVMwanozRWI0WlhFbUtSTGpVbkxqM1VYMnZVdG1JM01oR3BSYis3TVJyQXFWaGEwaHdlVWFlS25yREgvbWhxYTFuMStkdW5HbFJEakk1Z21oT05yN281TzVTV2pIdlNad2hYY01QangvYjJQZHQyQ0tPdWRxaWI0L1R3TER4OTdTbUprQXlnRTdiU211V2RLQkw0TVJUN3hhcW9rQzBacmx1SnM2ZlJrZTRqMUcxRC8vUG4xVHc4Y1g4VU1IS3BEU3M0RTEvNUxxd1FBSVZMWWJYZ0xrL0FXQ2thZU9qVzI2YjhtaW9XVndocWU1WE5MY3k1bmxKMm44RDVNNjg=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
+    maxSimultaneousImageTargets: 5
+    maxSimultaneousObjectTargets: 5
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
-    version: 8.3.8
-    eulaAcceptedVersions: '{"Values":["8.5","8.3"]}'
-  digitalEyewear:
-    cameraOffset: 0.06
-    distortionRenderingLayer: 31
-    eyewearType: 0
-    stereoFramework: 0
-    seeThroughConfiguration: 0
-    viewerName: 
-    viewerManufacturer: 
-    useCustomViewer: 0
-    customViewer:
-      Version: 0
-      Name: 
-      Manufacturer: 
-      ButtonType: 0
-      ScreenToLensDistance: 0
-      InterLensDistance: 0
-      TrayAlignment: 0
-      LensCenterToTrayDistance: 0
-      DistortionCoefficients: {x: 0, y: 0}
-      FieldOfView: {x: 0, y: 0, z: 0, w: 0}
-      ContainsMagnet: 0
+    version: 8.5.9
+    eulaAcceptedVersions: '{"Values":["8.5","8.3","8.1"]}'
   database:
     disableModelExtraction: 0
   videoBackground:
-    clippingMode: 0
     numDivisions: 2
     videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
       type: 3}
-    matteShader: {fileID: 4800000, guid: 66d0d78a3000021448b598bb54a3bfdf, type: 3}
     videoBackgroundEnabled: 1
   deviceTracker:
     autoInitTracker: 0
     autoStartTracker: 0
     arcoreRequirement: 0
-    trackingMode: 1
-    posePrediction: 0
-    modelCorrectionMode: 0
-    modelTransformEnabled: 0
-    modelTransform: {x: 0, y: 0.1, z: -0.1}
+    autoImportArcore: 0
   smartTerrain:
     autoInitTracker: 0
     autoStartTracker: 0

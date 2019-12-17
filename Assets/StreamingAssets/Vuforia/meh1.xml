@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="chiz" size="1.000000 0.574879" />
-    <ImageTarget name="tvarog" size="1.000000 0.519324" />
-    <ImageTarget name="svechelik" size="1.000000 0.478175" />
-    <ImageTarget name="gadvyadina" size="1.000000 0.393043" />
-    <ImageTarget name="chichiken" size="1.000000 0.328100" />
-    <ImageTarget name="piggy" size="1.000000 0.437137" />
-    <ImageTarget name="kobchak" size="1.000000 0.500000" />
-    <ImageTarget name="avtomato" size="1.000000 0.396092" />
-    <ImageTarget name="oggurretts" size="1.000000 0.403390" />
-    <ImageTarget name="lucshechemkapusta" size="1.000000 0.512136" />
-    <ImageTarget name="Moloko" size="1.000000 0.517000" />
+    <ImageTarget name="kabachokadf" size="1.000000 1.000000" />
+    <ImageTarget name="avtomat" size="1.000000 1.000000" />
+    <ImageTarget name="fca36a6798f0be5a33419e73d985e685" size="1.000000 1.000000" />
+    <ImageTarget name="3fb2d02b55de97e63510b91b106d945a" size="1.000000 0.562000" />
+    <ImageTarget name="sir" size="1.000000 0.892857" />
+    <ImageTarget name="62062899e5f11e83f608bde2d7b8bf8a" size="1.000000 1.000000" />
+    <ImageTarget name="Pork-Shoulder-Chops" size="1.000000 0.842105" />
+    <ImageTarget name="kak-vybrat-govyadinu" size="1.000000 0.666875" />
+    <ImageTarget name="kurinoe-file" size="1.000000 1.000000" />
+    <ImageTarget name="depositphotos_116626732-stock-photo-green-cucumber-on-a-white" size="1.000000 0.666667" />
+    <ImageTarget name="tvorog-ds-5" size="1.000000 1.113173" />
   </Tracking>
 </QCARConfig>
